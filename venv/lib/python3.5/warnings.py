@@ -1,1 +1,1 @@
-/usr/local/lib/python3.5/warnings.py
+/usr/lib/python3.5/warnings.py

@@ -1,4 +1,4 @@
-#!/home/nihal/superset/superset/venv/bin/python
+#!/home/nihal/repos/superset/venv/bin/python
 
 import sys
 import getopt

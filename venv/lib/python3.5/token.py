@@ -1,1 +1,1 @@
-/usr/local/lib/python3.5/token.py
+/usr/lib/python3.5/token.py

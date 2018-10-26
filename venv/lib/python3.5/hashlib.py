@@ -1,1 +1,1 @@
-/usr/local/lib/python3.5/hashlib.py
+/usr/lib/python3.5/hashlib.py

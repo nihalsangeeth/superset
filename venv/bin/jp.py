@@ -1,4 +1,4 @@
-#!/home/nihal/superset/superset/venv/bin/python3.5
+#!/home/nihal/repos/superset/venv/bin/python3
 
 import sys
 import json
